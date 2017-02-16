@@ -1,7 +1,13 @@
 # AMCD-java
 AMCD(Asynchronous Multiple Condtions Dependence) 模式的java版本实现
 
-### 使用实例
+### TODO list
+
+1. add Callable exec.(that mean now the method setTarget for Callable is not work now)
+```java public void setTarget(final Callable<A> target)```
+
+
+### Demo
 
 ```java
 //in class Main
