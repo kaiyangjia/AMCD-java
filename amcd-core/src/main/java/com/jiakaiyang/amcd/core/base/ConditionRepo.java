@@ -1,4 +1,4 @@
-package com.jiakaiyang.amcd.core.repo;
+package com.jiakaiyang.amcd.core.base;
 
 import java.util.concurrent.Callable;
 
